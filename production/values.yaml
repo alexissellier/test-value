@@ -1,4 +1,6 @@
 main:
   production:
     elb: 32134132
-    
+    array_test:
+      - toto
+      - tata
